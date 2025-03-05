@@ -29,8 +29,5 @@ Technologies Used:
 
 
 
-#Model Performance
 
-Training Accuracy: 96.76%
-Test Accuracy: 96.68%
 
